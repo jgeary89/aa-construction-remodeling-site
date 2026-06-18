@@ -1,0 +1,61 @@
+{
+  "source": "local-seed",
+  "profile": "aaconstruction.inc",
+  "updatedAt": "2026-06-09T00:00:00.000Z",
+  "items": [
+    {
+      "id": "seed-kitchen",
+      "title": "Kitchen Remodel",
+      "caption": "Kitchen cabinetry, stone counters, tile backsplash, and lighting inspiration.",
+      "category": "kitchen",
+      "mediaType": "IMAGE",
+      "src": "assets/kitchen-remodel.png",
+      "permalink": "https://www.instagram.com/aaconstruction.inc/"
+    },
+    {
+      "id": "seed-bathroom",
+      "title": "Bathroom Renovation",
+      "caption": "Bathroom tile, glass shower, vanity, fixtures, and clean finish work.",
+      "category": "bathroom",
+      "mediaType": "IMAGE",
+      "src": "assets/bath-remodel.png",
+      "permalink": "https://www.instagram.com/aaconstruction.inc/"
+    },
+    {
+      "id": "seed-exterior",
+      "title": "Exterior Improvement",
+      "caption": "Exterior entry, porch, siding accents, door, and trim project inspiration.",
+      "category": "exterior",
+      "mediaType": "IMAGE",
+      "src": "assets/exterior-remodel.png",
+      "permalink": "https://www.instagram.com/aaconstruction.inc/"
+    },
+    {
+      "id": "seed-interior",
+      "title": "Interior Upgrade",
+      "caption": "Interior finish work, flooring, trim, living space, and room refresh inspiration.",
+      "category": "interior",
+      "mediaType": "IMAGE",
+      "src": "assets/hero-remodel.png",
+      "permalink": "https://www.instagram.com/aaconstruction.inc/"
+    },
+    {
+      "id": "seed-new-build",
+      "title": "New Build",
+      "caption": "New construction, ground-up build, framing, foundation, and finish work inspiration.",
+      "category": "new-builds",
+      "mediaType": "IMAGE",
+      "src": "assets/hero-remodel.png",
+      "permalink": "https://www.instagram.com/aaconstruction.inc/"
+    },
+    {
+      "id": "seed-addition",
+      "title": "Room Addition",
+      "caption": "Room addition, expanded living space, build-out, tie-in, and home expansion inspiration.",
+      "category": "additions",
+      "mediaType": "IMAGE",
+      "src": "assets/exterior-remodel.png",
+      "permalink": "https://www.instagram.com/aaconstruction.inc/"
+    }
+  ]
+}
